@@ -1,1 +1,1 @@
-This directory is where we would expect your program to write the requested output files.
+This is the directory where my output files - medianvals_by_zip.txt and medianvals_by_date.txt are created.
