@@ -4,10 +4,10 @@
 3. [Details of Source Code](README.md#details-of-source-code)
 
 # Introduction
-Programming Language -> PYTHON
-IDE -> PYCHARM
-Complexity -> O(n)
-Required Functionality Achieved -> 100%
+##### Programming Language -> PYTHON
+##### IDE -> PYCHARM
+##### Complexity -> O(n)
+##### Required Functionality Achieved -> 100%
 
 This repository contains my response for the insight data engineering fellowship coding task. I have written an efficient and scalable code with a run-time complexity of O(n) where n is the number of lines in the input file. My code will work efficiently even with very large input files.
 
@@ -19,10 +19,10 @@ If the user does not give the argument, the code will execute and give output ba
 
 To run using your file in input folder=>
 (Assuming you are in the src folder in terminal)
-### python find_political_donors.py <your_file_name.txt>
+##### python find_political_donors.py <your_file_name.txt>
 
 To run using default file itcont.txt=>
-### python find_political_donors.py
+##### python find_political_donors.py
 
 # Details of Source Code
 
