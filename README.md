@@ -19,10 +19,10 @@ If the user does not give the argument, the code will execute and give output ba
 
 To run using your file in input folder=>
 (Assuming you are in the src folder in terminal)
-python find_political_donors.py <your_file_name.txt>
+### python find_political_donors.py <your_file_name.txt>
 
 To run using default file itcont.txt=>
-python find_political_donors.py
+### python find_political_donors.py
 
 # Details of Source Code
 
@@ -33,5 +33,5 @@ Different methods have been created to achieve the required functionality. These
 4. make_date_df - This method takes in the by_date_dict modified by the "parse_input" method, and makes and returns a dataframe from it which contains the fields sorted by recipient ID and date.
 5. make_text_files - This method takes in the two final dataframes for medianvals by zip and dict respectively and makes the required output text files from them.
 The Flow of the program is as follows (main method handles all this)
-#                           INPUT--->LOAD_FILE--->PARSE_INPUT--->MAKE_DATE_DF--->MAKE_TEXT_FILES(OUTPUT)
+###                        INPUT--->LOAD_FILE--->PARSE_INPUT--->MAKE_DATE_DF--->MAKE_TEXT_FILES(OUTPUT)
 
