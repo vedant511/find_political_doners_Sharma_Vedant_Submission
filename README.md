@@ -24,6 +24,8 @@ To run using your file in input folder=>
 To run using default file itcont.txt=>
 ##### python find_political_donors.py
 
+###### *You can check the output files medianvals_by_zip.txt and medianvals_by_date.txt in the output folder after running the code.
+
 # Details of Source Code
 
 Different methods have been created to achieve the required functionality. These methods with their function are:
