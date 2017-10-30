@@ -4,7 +4,7 @@
 3. [Details of Source Code](README.md#details-of-source-code)
 
 # Introduction
-##### Programming Language -> PYTHON
+##### Programming Language -> python2.7
 ##### IDE -> PYCHARM
 ##### Complexity -> O(n)
 ##### Required Functionality Achieved -> 100%
